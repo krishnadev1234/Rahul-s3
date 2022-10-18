@@ -1,13 +1,13 @@
 variable "aws_access_key" {
   type        = string
   description = "Enter the access key"
-  default = "AKIAUCE6W5YA5HYLK72X"
+  default = ""
 }
 
 variable "aws_secret_key" {
   type        = string
   description = "Enter the secret key"
-  default = "jvGVhOkfeQSrxn/n12/dxwAblQ/bIHPdeBXabIqi"
+  default = ""
 }
 
 variable "region" {
